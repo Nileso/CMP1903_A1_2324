@@ -1,0 +1,7 @@
+C:\Users\Oliver\Documents\_Uni\oop_github\CMP1903_A1_2324\bin\Debug\CMP1903_A1_2324.exe.config
+C:\Users\Oliver\Documents\_Uni\oop_github\CMP1903_A1_2324\bin\Debug\CMP1903_A1_2324.exe
+C:\Users\Oliver\Documents\_Uni\oop_github\CMP1903_A1_2324\bin\Debug\CMP1903_A1_2324.pdb
+C:\Users\Oliver\Documents\_Uni\oop_github\CMP1903_A1_2324\obj\Debug\CMP1903_A1_2324.csproj.AssemblyReference.cache
+C:\Users\Oliver\Documents\_Uni\oop_github\CMP1903_A1_2324\obj\Debug\CMP1903_A1_2324.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Documents\_Uni\oop_github\CMP1903_A1_2324\obj\Debug\CMP1903_A1_2324.exe
+C:\Users\Oliver\Documents\_Uni\oop_github\CMP1903_A1_2324\obj\Debug\CMP1903_A1_2324.pdb
