@@ -16,13 +16,13 @@ namespace CMP1903_A1_2324
          */
 
         Die die1 = new Die();
-        Die die2 = new Die();
+        Die die2 = new Die(); //creates three individual die objects from the die class
         Die die3 = new Die();
         //Methods
         public int[] ReturnRolls()//returns a list of the dice values
         {
             int num1 = die1.Roll();
-            int num2 = die2.Roll();
+            int num2 = die2.Roll(); //rolls the three dice
             int num3 = die3.Roll();
             return new int[] { num1, num2, num3 };
         }
@@ -31,7 +31,7 @@ namespace CMP1903_A1_2324
         {
             return die1.currentValue + die2.currentValue + die3.currentValue;
         }
-        public void OutputDice(int[] nums)//outputs the dice
+        public void OutputDice(int[] nums)//outputs the dice and their sum
         {
             Console.WriteLine($"First die is {nums[0]}");
             Console.WriteLine($"Second die is {nums[1]}");
