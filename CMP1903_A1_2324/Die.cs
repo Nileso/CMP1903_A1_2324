@@ -15,7 +15,10 @@ namespace CMP1903_A1_2324
 
         //Property
         public int currentValue { get; private set; } //current value is public to get but private to set
+
+        // Field
         static Random random = new Random(); /*creating the 'random' object is required to generate random numbers*/
+        
         //Method
         public int Roll() // gets the current value for the die
         {
