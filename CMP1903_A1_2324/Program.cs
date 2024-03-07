@@ -15,12 +15,12 @@ namespace CMP1903_A1_2324
              /* Create a Game object and call its methods.*/
 
             Game game = new Game();
-            int[] nums = game.ReturnRolls();
+            int[] nums = game.ReturnRolls(); // returns a list of the current values of the dice
             game.OutputDice(nums);
 
             /* Create a Testing object to verify the output and operation of the other classes.*/
             Testing tester = new Testing();
-            tester.Test();
+            tester.Test(); // starts the test process
         }
     }
 }
